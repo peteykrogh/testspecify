@@ -1,5 +1,5 @@
 {
-  "repository": "@owner/repositoryName",
+  "repository": "@workspace-name/testspecify",
   "head": "specify",
   "rules": [
     {
