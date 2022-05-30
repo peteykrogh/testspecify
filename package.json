@@ -1,5 +1,9 @@
 {
   "devDependencies": {
     "@specifyapp/cli": "^1.0.0"
+  },
+  "scripts": {
+    "sync": "specify sync",
+    "pull": "specify pull"
   }
 }
