@@ -1,6 +1,6 @@
 {
   "repository": "@workspace-name/testspecify",
-  "head": "specify",
+  "personalAccessToken": "7805e99681a62574175f55abff6eb5d7dcf6b34f7cf49dcbe5cd554771d2e26c",
   "rules": [
     {
       "name": "Design Tokens / Colors",
